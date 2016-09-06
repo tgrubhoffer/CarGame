@@ -1,2 +1,6 @@
-# CarGame
-A simple car game, which I would like to work on ^^
+# Game folder
+In here I would like to store our ideas for simple games
+
+Initial version:
+- CarGame
+- TextGame
